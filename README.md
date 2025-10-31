@@ -39,7 +39,6 @@ Ajustar los estilos y colores para lograr un diseño limpio pero con un **toque 
 
 1. Clonar o copiar el repositorio.  
 2. Instalar dependencias:
-   ```bash
    npm install
    npm run dev
    http://localhost:5173/
