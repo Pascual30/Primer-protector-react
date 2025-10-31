@@ -3,7 +3,6 @@
 **Autor:**  
 Pascual Pimentel Vicente 
 
----
 
 ## Descripción del juego
 
@@ -28,7 +27,6 @@ Durante el desarrollo de este proyecto aprendí a:
 - Aplicar estilos con CSS en componentes de React.
 - Comprender mejor cómo **React renderiza y actualiza** la interfaz al cambiar el estado.
 
----
 
 ## La parte más difícil
 
@@ -37,7 +35,6 @@ La parte más retadora fue:
 - Manejar el **estado del juego guardado en localStorage**, para que al recargar la página no se pierda el progreso.
 - Ajustar los estilos y colores para lograr un diseño limpio pero con un **toque dominicano auténtico 🇩🇴**.
 
----
 
 ## Cómo ejecutar el proyecto
 
